@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vikasyadav12960/Leet-1/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vikasyadav12960/Leet-1/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vikasyadav12960/Leet-1/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vikasyadav12960/Leet-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
@@ -30,9 +31,14 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vikasyadav12960/Leet-1/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vikasyadav12960/Leet-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vikasyadav12960/Leet-1/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vikasyadav12960/Leet-1/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
