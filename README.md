@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vikasyadav12960/Leet-1/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Vikasyadav12960/Leet-1/tree/master/0020-valid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vikasyadav12960/Leet-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bit Manipulation
 |  |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vikasyadav12960/Leet-1/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vikasyadav12960/Leet-1/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vikasyadav12960/Leet-1/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
